@@ -9,8 +9,7 @@ public class XueActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_xue);
-        String name="test";
-        String email="klasdkjfl;j";
-        String wu="五分之1";
+
+
     }
 }
